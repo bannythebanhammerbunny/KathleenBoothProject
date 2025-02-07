@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,10 +11,10 @@
 
     <header>
         <ul id = "header">
-        <li><a href="index.php" style="float: left;"><img class="header_logo" src="admin/images/logo.png" alt="Lego"></a></li>
-        <li><a><button>current orders</button></a></li>
-        <li><a href = "products.php">our products</a></li>
-        <li><a href = "login.php"><img src = "images/login.png" alt = "log in" ></a></li>
-        <li><a href = "logout.php"><img src = "images/untitled.png" alt = "log out"></a></li>
+        <li><a href="index.php" style="float: left;"></a></li>
+        <li><a href="innovations.php"></a></li>
+        <li><a href = "bio.php">our products</a></li>
+        <li><a href = "diversity.php"></a></li>
+        <li><a href = "sources.php"></a></li>
         </ul>
     </header>
