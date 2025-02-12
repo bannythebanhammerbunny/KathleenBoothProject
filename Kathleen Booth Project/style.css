@@ -60,10 +60,10 @@ header ul {
   header li a:hover {
     background-color: #111111;
   }
-  img{
+  /* img{
     width : 50px ;
     height : 30px;
-  }
+  } */
 
   .slideshow-container {
     padding-top: 1%;
@@ -126,4 +126,8 @@ header ul {
     to {
         opacity: 1
     }
+}
+p {
+  margin-left: 80px;
+  margin-right: 80px;
 }
